@@ -50,11 +50,17 @@ pip install -r requirements.txt
 Create a .env file in the root directory and include the following keys (replace with your actual credentials):
 
 BEARER_TOKEN=your_twitter_bearer_token
+
 CONSUMER_KEY=your_twitter_consumer_key
+
 CONSUMER_SECRET=your_twitter_consumer_secret
+
 ACCESS_TOKEN=your_twitter_access_token
+
 ACCESS_TOKEN_SECRET=your_twitter_access_token_secret
+
 OPENAI_API_KEY=your_openai_api_key
+
 
 
 4. Run the Bot
