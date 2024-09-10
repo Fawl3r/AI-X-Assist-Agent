@@ -42,9 +42,6 @@ Enhanced Security: With features like OAuth authentication, encrypted API access
 Installation
 1. Clone the Repository
 
-git clone https://github.com/your-username/ai-x-assist.git
-cd ai-x-assist
-
 2. Install Dependencies
 
 pip install -r requirements.txt
@@ -62,7 +59,7 @@ OPENAI_API_KEY=your_openai_api_key
 
 4. Run the Bot
 
-python ai_x_assist.py
+python X_Assist.py
 
 
 
